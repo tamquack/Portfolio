@@ -1,0 +1,28 @@
+# Backend
+portfolio-backend/target/
+portfolio-backend/.idea/
+portfolio-backend/*.iml
+portfolio-backend/*.iws
+portfolio-backend/*.ipr
+portfolio-backend/src/main/resources/application.properties
+
+# Frontend
+portfolio-frontend/node_modules/
+portfolio-frontend/dist/
+portfolio-frontend/.env
+portfolio-frontend/.env.local
+portfolio-frontend/.env.production
+
+# Docker
+.env
+**/.env
+docker-compose.override.yml
+
+# General
+.DS_Store
+.vscode/
+*.log
+*.class
+*.jar
+*.war
+HELP.md

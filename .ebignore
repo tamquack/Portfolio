@@ -1,0 +1,15 @@
+portfolio-backend/Dockerfile
+portfolio-frontend/Dockerfile
+portfolio-backend/src
+portfolio-backend/.mvn
+portfolio-backend/mvnw
+portfolio-backend/mvnw.cmd
+portfolio-backend/pom.xml
+portfolio-frontend/src
+portfolio-frontend/public
+portfolio-frontend/index.html
+portfolio-frontend/package.json
+portfolio-frontend/package-lock.json
+portfolio-frontend/vite.config.js
+portfolio-frontend/eslint.config.js
+portfolio-frontend/nginx.conf

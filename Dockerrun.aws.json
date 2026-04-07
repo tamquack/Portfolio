@@ -1,0 +1,5 @@
+{
+  "AWSEBDockerrunVersion": "3",
+  "dockerComposeVersion": "3.8",
+  "compose": "docker-compose.yml"
+}

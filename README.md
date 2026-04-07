@@ -169,18 +169,6 @@ Build a production-grade full stack portfolio that demonstrates real-world engin
 
 ---
 
-## Dev Log
-
-| Date | Phase |
-|---|---|
-| 2026-03-16 | Preliminary Phase — stack decisions, project structure |
-| 2026-03-16 | Backend Phase — Spring Boot, REST endpoints, H2 database |
-| 2026-04-02 | Frontend Phase — React scaffold, component integration |
-| 2026-04-02 | Styling Phase — Tailwind CSS, animations, git incident |
-| 2026-04-02 | Refinement Phase — Docker, PostgreSQL, Playwright, security |
-| 2026-04-06 | Deployment Phase — ECR, RDS, Elastic Beanstalk |
-
----
 
 ## Author
 

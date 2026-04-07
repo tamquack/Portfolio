@@ -13,10 +13,12 @@ portfolio-frontend/.env
 portfolio-frontend/.env.local
 portfolio-frontend/.env.production
 
-# Docker
+# Docker - sensitive compose files
 .env
 **/.env
 docker-compose.override.yml
+docker-compose.local.yml
+docker-compose.yml
 
 # General
 .DS_Store
@@ -26,7 +28,8 @@ docker-compose.override.yml
 *.jar
 *.war
 HELP.md
-# Elastic Beanstalk Files
+
+# Elastic Beanstalk
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
